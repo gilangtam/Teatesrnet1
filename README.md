@@ -1,2 +1,2 @@
-# Teatesrnet1
+# Teatestnet1
 Tea testnet real 1
